@@ -1,1 +1,1 @@
-# Fedora-Contributing
+# Fedora-Public
